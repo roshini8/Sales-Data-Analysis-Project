@@ -63,9 +63,7 @@ Gain deep insights into global sales performance across regions, product lines, 
 
 ---
 
-## 📸 Sample Visualizations
-
-> _(Generated with `seaborn` & `matplotlib`)_
+## 📸 Visualizations Made
 
 - 📈 Line Plot: Year-over-Year Revenue
 - 🌍 Bar Chart: Revenue by Country
